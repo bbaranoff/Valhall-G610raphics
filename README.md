@@ -22,9 +22,9 @@ glxinfo -B (no HW acceleration ?????? :((((((( )
 
 May have to check to thoses resources
 
-https://developer.arm.com/downloads/-/mali-drivers/valhall-kernel
-https://armbian.site-meganet.com/dl/orangepi5-plus/archive/Armbian_23.8.99_Orangepi5-plus_jammy_edge_6.6.1_minimal.img.xz (fresh just found at writing time)
-https://mega.nz/folder/j9QSDQSQ#6WpasOlbZYIInfw6yo4phQ/folder/LkgF1SoY
-https://github.com/JeffyCN/mirrors/tree/libmali
-https://github.com/Saikatsaha1996/mesa-Panfrost-G610
+- https://developer.arm.com/downloads/-/mali-drivers/valhall-kernel  
+- https://armbian.site-meganet.com/dl/orangepi5-plus/archive/Armbian_23.8.99_Orangepi5-plus_jammy_edge_6.6.1_minimal.img.xz (fresh just found at writing time)  
+- https://mega.nz/folder/j9QSDQSQ#6WpasOlbZYIInfw6yo4phQ/folder/LkgF1SoY  
+- https://github.com/JeffyCN/mirrors/tree/libmali  
+- https://github.com/Saikatsaha1996/mesa-Panfrost-G610  
 
